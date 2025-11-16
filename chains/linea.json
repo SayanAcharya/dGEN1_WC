@@ -1,0 +1,26 @@
+{
+  "id": 59144,
+  "name": "Linea",
+  "tokens": [
+    {
+      "symbol": "USDC",
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+      "decimals": 6
+    },
+    {
+      "symbol": "USDT",
+      "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+      "decimals": 6
+    },
+    {
+      "symbol": "DAI",
+      "address": "0xF44a1a39C2c0a0Be123aBBBD5c8c15Dcdcd9402e",
+      "decimals": 18
+    },
+    {
+      "symbol": "WETH",
+      "address": "0xe5D7C2aF281FaF52d12C0bc0bB0e5c0C45D38424",
+      "decimals": 18
+    }
+  ]
+}

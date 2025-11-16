@@ -1,0 +1,21 @@
+{
+  "id": 137,
+  "name": "Polygon",
+  "tokens": [
+    {
+      "symbol": "USDC",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "decimals": 6
+    },
+    {
+      "symbol": "USDT",
+      "address": "0x3B9c410e8A0210767f7E04c1E2C91880eC0dA3e5",
+      "decimals": 6
+    },
+    {
+      "symbol": "DAI",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "decimals": 18
+    }
+  ]
+}
